@@ -4,7 +4,7 @@
 
 # Hi, I’m Bernard 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Brian-C69&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## About Me
 I’m a systems-focused builder who enjoys turning messy problems into clean, efficient solutions.  
