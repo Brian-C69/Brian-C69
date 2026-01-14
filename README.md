@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="tech_banner.png" alt="Tech Banner" />
+  <img src="tech_wallpaper.png" alt="Tech Wallpaper" />
 </p>
 
 # Hi, I’m Bernard 👋
